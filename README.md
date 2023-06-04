@@ -5,9 +5,9 @@
   
 </div>
 
-#### My name is Angelina, i'm a Frontend Developer
+#### My name is Angelina, i'm a Frontend Developer passionate about creating visually appealing and user-friendly web applications
 
-## Skills
+## Skills :
 <div align="center">
   <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=0000000" alt="React" height="40px">
   <img src="https://img.shields.io/badge/-typescript-000000?style=for-the-badge&logo=typescript&&logoColor=0000000" alt="CSS" height="40px">
@@ -32,17 +32,9 @@
 
 </div>
  
-  ## Contact
+  ## Contacts :
   #### I am open to collaboration and new opportunities
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/anhelina-hrytsal/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"  height="35px"/>
-  </a>
-  <a href="https://t.me/Lina_gritsel">
-    <img src="https://img.shields.io/badge/-telegram-027AE9?style=for-the-badge&logo=Telegram&&logoColor=0000000" alt="Telegram Badge"  height="35px"/>
-  </a>
-  <a href="mailto:lina.gritsel@gmail.com">
-    <img src="https://img.shields.io/badge/-gmail-EB1D00?style=for-the-badge&logo=Gmail&&logoColor=FFFFFF" alt="Gmail Badge"  height="35px"/>
-  </a>
-</div>
+  
+  - Telegram: [@Lina_gritsel](https://t.me/Lina_gritsel)
+  - Email: [lina.gritsel@gmail.com](mailto:lina.gritsel@gmail.com)
+  - LinkedIn: [anhelina-hrytsal](https://www.linkedin.com/in/anhelina-hrytsal/)

@@ -49,5 +49,7 @@
   ([Source code](https://github.com/lina-gritsel/graphiql-app))
 * Online-store app: [Online-store](https://pashashchuka-linagritsel-online-store.netlify.app/)
   ([Source code](https://github.com/lina-gritsel/online-store))
+* Job-search app: [Job-search](https://startup-summer-3hlu-l6fwk2myz-lina-gritsel.vercel.app/)
+  ([Source code](https://github.com/lina-gritsel/job-search-app))
   </p>
 </details>

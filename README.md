@@ -45,10 +45,9 @@
       
 * Clone Social-network: [Social-network](https://social-network-6bm4-git-development-lina-gritsel.vercel.app/)
   ([Source code](https://github.com/lina-gritsel/social-network))
-      
 * GraphiQL-app: [GraphiQL](https://graphiql-app-rs-school.vercel.app/)
   ([Source code](https://github.com/lina-gritsel/graphiql-app))
 * Online-store app: [Online-store](https://pashashchuka-linagritsel-online-store.netlify.app/)
-  ([Source code](https://github.com/lina-gritsel/Online-store)
+  ([Source code](https://github.com/lina-gritsel/online-store))
   </p>
 </details>

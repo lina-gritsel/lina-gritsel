@@ -24,13 +24,13 @@
   <img src="https://img.shields.io/badge/-mui-000000?style=for-the-badge&logo=mui&&logoColor=0000000" alt="mui" height="40px">
 </div>
 
-## My Stats :
+<!-- ## My Stats :
   <div height="90px"> 
   
   ![React's GitHub stats](https://github-readme-stats.vercel.app/api?username=lina-gritsel&show_icons=true&theme=vision-friendly-dark)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lina-gritsel&layout=compact&theme=vision-friendly-dark)](https://github.com/lina-gritsel/github-readme-stats)
 
-</div>
+</div> -->
  
   ## Contacts :
   #### I am open to collaboration and new opportunities
